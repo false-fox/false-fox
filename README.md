@@ -5,7 +5,8 @@
 - I primarily program in Javascript, Rust and C, and dabble in other languages aswell.
 please check out [my website](https://falsefox.dev) for further inquries.
 
-# Curently working on, as of 2024-05-04:
+# Curently working on, as of 2024-05-24:
+- A military logistics/strategy game in Godot
 - Foxeats, a platform for vegetarian/vegan cooking & recipes that prioritizes good UI/UX.
 - Unnamed photography website, to upload my photography with a CC BY 4.0 license
 - Touchups on smaller projects, like foxqr or my blog.
